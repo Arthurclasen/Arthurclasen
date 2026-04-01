@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on applying a multi-ring paxos in a cluster for consensus algorithm<br>📚 I’m currently learning about Kubernetes, cloud computing and low level networking<br>🎯 Goals: collaborate on distributed systems security<br>📫 How to reach me: arthurclasendemelo@gmail.com</p>
+<p align="left">🔭 I’m currently working on applying a multi-ring paxos in a cluster for consensus algorithm<br>📚 Deep-diving into Kubernetes internals, Cloud Architecture, and Low-level Networking<br>🎯 Goals: collaborate on distributed systems security<br>📫 How to reach me: arthurclasendemelo@gmail.com</p>
 
 ###
 
