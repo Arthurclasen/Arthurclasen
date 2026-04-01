@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arthur Clasen de Melo, I'm a back-end dev student focusing on the intersection of Java/C++ and Network Security.</p>
+<p align="left">My name is Arthur Clasen de Melo, I'm a back-end dev student focusing on the intersection of Java/C/C++ and Network Security.</p>
 
 ###
 
